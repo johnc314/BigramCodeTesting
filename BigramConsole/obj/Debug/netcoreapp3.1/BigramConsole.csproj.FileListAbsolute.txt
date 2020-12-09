@@ -1,0 +1,16 @@
+C:\repos\BigramParsingJtc\BigramConsole\obj\Debug\netcoreapp3.1\BigramConsole.csprojAssemblyReference.cache
+C:\repos\BigramParsingJtc\BigramConsole\obj\Debug\netcoreapp3.1\BigramConsole.AssemblyInfoInputs.cache
+C:\repos\BigramParsingJtc\BigramConsole\obj\Debug\netcoreapp3.1\BigramConsole.AssemblyInfo.cs
+C:\repos\BigramParsingJtc\BigramConsole\obj\Debug\netcoreapp3.1\BigramConsole.csproj.CoreCompileInputs.cache
+C:\repos\BigramParsingJtc\BigramConsole\bin\Debug\netcoreapp3.1\BigramConsole.exe
+C:\repos\BigramParsingJtc\BigramConsole\bin\Debug\netcoreapp3.1\BigramConsole.deps.json
+C:\repos\BigramParsingJtc\BigramConsole\bin\Debug\netcoreapp3.1\BigramConsole.runtimeconfig.json
+C:\repos\BigramParsingJtc\BigramConsole\bin\Debug\netcoreapp3.1\BigramConsole.runtimeconfig.dev.json
+C:\repos\BigramParsingJtc\BigramConsole\bin\Debug\netcoreapp3.1\BigramConsole.dll
+C:\repos\BigramParsingJtc\BigramConsole\bin\Debug\netcoreapp3.1\BigramConsole.pdb
+C:\repos\BigramParsingJtc\BigramConsole\bin\Debug\netcoreapp3.1\ParsingService.dll
+C:\repos\BigramParsingJtc\BigramConsole\bin\Debug\netcoreapp3.1\ParsingService.pdb
+C:\repos\BigramParsingJtc\BigramConsole\obj\Debug\netcoreapp3.1\BigramConsole.csproj.CopyComplete
+C:\repos\BigramParsingJtc\BigramConsole\obj\Debug\netcoreapp3.1\BigramConsole.dll
+C:\repos\BigramParsingJtc\BigramConsole\obj\Debug\netcoreapp3.1\BigramConsole.pdb
+C:\repos\BigramParsingJtc\BigramConsole\obj\Debug\netcoreapp3.1\BigramConsole.genruntimeconfig.cache

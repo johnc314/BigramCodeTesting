@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BigramConsole/1.0.0": {
+        "dependencies": {
+          "ParsingService": "1.0.0"
+        },
+        "runtime": {
+          "BigramConsole.dll": {}
+        }
+      },
+      "ParsingService/1.0.0": {
+        "runtime": {
+          "ParsingService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BigramConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ParsingService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

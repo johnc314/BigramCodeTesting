@@ -1,0 +1,9 @@
+C:\repos\BigramParsingJtc\ParsingService\bin\Debug\netcoreapp3.1\ParsingService.deps.json
+C:\repos\BigramParsingJtc\ParsingService\bin\Debug\netcoreapp3.1\ParsingService.dll
+C:\repos\BigramParsingJtc\ParsingService\bin\Debug\netcoreapp3.1\ParsingService.pdb
+C:\repos\BigramParsingJtc\ParsingService\obj\Debug\netcoreapp3.1\ParsingService.csprojAssemblyReference.cache
+C:\repos\BigramParsingJtc\ParsingService\obj\Debug\netcoreapp3.1\ParsingService.AssemblyInfoInputs.cache
+C:\repos\BigramParsingJtc\ParsingService\obj\Debug\netcoreapp3.1\ParsingService.AssemblyInfo.cs
+C:\repos\BigramParsingJtc\ParsingService\obj\Debug\netcoreapp3.1\ParsingService.csproj.CoreCompileInputs.cache
+C:\repos\BigramParsingJtc\ParsingService\obj\Debug\netcoreapp3.1\ParsingService.dll
+C:\repos\BigramParsingJtc\ParsingService\obj\Debug\netcoreapp3.1\ParsingService.pdb
